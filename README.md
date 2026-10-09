@@ -31,7 +31,7 @@ The analysis was guided by the following key business questions:
 4. Which countries have the highest quantity of products sold?
 5. Which products generate the most revenue?
 
-6. ## Data Source & Dataset Description
+ ## Data Source & Dataset Description
 
 The dataset was obtained from the **UCI Machine Learning Repository**. It contains transaction data from a UK-based online retail business covering **December 2010 to December 2011**.
 
@@ -45,6 +45,24 @@ The original dataset contained **541,909 rows and 8 columns**. Key fields includ
 * **UnitPrice:** Price charged per unit.
 * **CustomerID:** Customer identification number.
 * **Country:** Customer's country.
+
+
+## Data Cleaning & Preparation
+
+I used **Power Query** to clean and prepare the raw transaction data before analyzing it in Power BI.
+
+The main data preparation steps included:
+
+* Identifying and removing cancellation transactions.
+* Removing records with negative quantities.
+* Removing duplicate transaction records.
+* Removing records with missing product descriptions or unit prices.
+* Removing records with negative unit prices.
+* Investigating and retaining records with zero unit prices.
+* Replacing missing CustomerID values with **"Unknown"** so those records could remain in the analysis.
+
+After cleaning, the prepared dataset was used for the sales analysis and interactive Power BI dashboard.
+
 
 
 
