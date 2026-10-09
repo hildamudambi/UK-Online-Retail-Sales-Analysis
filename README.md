@@ -15,5 +15,11 @@ The objectives of this project were to:
 * Identify the countries generating the most revenue and selling the highest quantities.
 * Identify the top-performing products by revenue.
 * Develop insights and recommendations to support business decision-making.
+* ## Business Problem
+
+The company has a large volume of online retail transaction data, but without proper analysis, it can be difficult to understand its sales performance, revenue patterns, market performance, and product contribution.
+
+The business therefore needed to transform its raw transaction data into meaningful information that could help management identify sales trends, understand the strongest markets, evaluate product performance, and make informed decisions to support future growth.
+
 
 
