@@ -31,6 +31,22 @@ The analysis was guided by the following key business questions:
 4. Which countries have the highest quantity of products sold?
 5. Which products generate the most revenue?
 
+6. ## Data Source & Dataset Description
+
+The dataset was obtained from the **UCI Machine Learning Repository**. It contains transaction data from a UK-based online retail business covering **December 2010 to December 2011**.
+
+The original dataset contained **541,909 rows and 8 columns**. Key fields include:
+
+* **InvoiceNo:** Transaction or invoice number.
+* **StockCode:** Product identification code.
+* **Description:** Product description.
+* **Quantity:** Number of units purchased.
+* **InvoiceDate:** Date and time of the transaction.
+* **UnitPrice:** Price charged per unit.
+* **CustomerID:** Customer identification number.
+* **Country:** Customer's country.
+
+
 
 
 
