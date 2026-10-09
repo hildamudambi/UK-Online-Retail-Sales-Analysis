@@ -112,6 +112,13 @@ Based on the findings, the following actions are recommended:
 * **Improve monthly sales consistency:** Explore ways to strengthen sales during lower-revenue months rather than relying mainly on stronger sales toward the end of the year.
 * **Monitor product performance:** Continue monitoring strong-performing products and identify opportunities to improve the performance of other products.
 
+## Conclusion
+
+This project transformed raw UK online retail transaction data into an interactive Power BI dashboard. Through data cleaning, analysis, and visualization, I explored overall sales performance, monthly revenue trends, country-level performance, and product revenue.
+
+The project strengthened my practical skills in **Power Query, Power BI, data cleaning, data analysis, and dashboard development**. The findings and recommendations demonstrate how data can be used to support informed business decisions.
+
+
 
 
 
