@@ -79,6 +79,7 @@ The main calculations included:
 I also created Year, Month, and Month Number columns to analyze revenue trends over time and display months in chronological order.
 
 ## Power BI Dashboard
+![UK Online Retail Sales Dashboard](UK-Online-Retail-Sales-Dashboard.png)
 
 I developed an interactive **Power BI dashboard** to present the results of the sales analysis.
 
