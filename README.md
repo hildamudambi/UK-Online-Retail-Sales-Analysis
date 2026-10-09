@@ -63,6 +63,24 @@ The main data preparation steps included:
 
 After cleaning, the prepared dataset was used for the sales analysis and interactive Power BI dashboard.
 
+## Analysis & Calculations
+
+After cleaning the dataset in Power Query, I loaded the prepared data into **Power BI** for analysis. I created calculated columns and measures to evaluate sales performance and answer the key business questions.
+
+The main calculations included:
+
+* **Sales Value:** Calculated using quantity multiplied by unit price.
+* **Total Revenue:** The total revenue generated from sales.
+* **Average Sales Value:** The average value per sales line.
+* **Count of Orders:** The number of distinct orders.
+* **Average Amount per Order:** The average revenue generated per order.
+* **Total Quantity:** The total number of products sold.
+
+I also created Year, Month, and Month Number columns to analyze revenue trends over time and display months in chronological order.
+
+
+
+
 
 
 
