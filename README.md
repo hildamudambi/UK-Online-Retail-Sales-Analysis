@@ -93,6 +93,18 @@ The visualizations show:
 
 The dashboard provides a clear overview of sales performance and helps identify patterns across countries, products, and months.
 
+## Key Findings
+
+The analysis revealed several important findings:
+
+* **Overall revenue:** The business generated approximately £10.64 million in revenue during the period analyzed.
+* **Monthly performance:** November recorded the highest monthly revenue at approximately £1.5 million, while February recorded the lowest at approximately £522,000.
+* **Country performance:** The United Kingdom generated the highest revenue and accounted for the largest share of units sold.
+* **Product performance:** Dotcom Postage ranked first among the top products by revenue, generating approximately £206,000.
+
+These findings highlight the importance of the UK market, variations in monthly sales, and differences in product revenue.
+
+
 
 
 
