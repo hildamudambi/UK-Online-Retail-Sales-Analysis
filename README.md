@@ -15,7 +15,7 @@ The objectives of this project were to:
 * Identify the countries generating the most revenue and selling the highest quantities.
 * Identify the top-performing products by revenue.
 * Develop insights and recommendations to support business decision-making.
-* ## Business Problem
+## Business Problem
 
 The company has a large volume of online retail transaction data, but without proper analysis, it can be difficult to understand its sales performance, revenue patterns, market performance, and product contribution.
 
@@ -77,6 +77,22 @@ The main calculations included:
 * **Total Quantity:** The total number of products sold.
 
 I also created Year, Month, and Month Number columns to analyze revenue trends over time and display months in chronological order.
+
+## Power BI Dashboard
+
+I developed an interactive **Power BI dashboard** to present the results of the sales analysis.
+
+The dashboard includes key performance indicators for Total Revenue, Total Quantity, Average Sales Value, Average Amount per Order, and Count of Orders. The **Country** and **Month** slicers allow users to explore the results using different filters.
+
+The visualizations show:
+
+* Top 20 countries by revenue.
+* Top 20 countries by quantity sold.
+* Top 10 products by revenue.
+* Revenue by month.
+
+The dashboard provides a clear overview of sales performance and helps identify patterns across countries, products, and months.
+
 
 
 
